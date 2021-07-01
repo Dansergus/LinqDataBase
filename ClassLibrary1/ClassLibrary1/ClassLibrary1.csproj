@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="linq2db.SqlServer" Version="4.0.0-preview.1" />
+      <PackageReference Include="MySql.Data" Version="8.0.25" />
+    </ItemGroup>
+
+</Project>
